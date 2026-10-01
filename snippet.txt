@@ -1,4 +1,4 @@
-<model-viewer src="u shape.glb" ar ar-modes="webxr scene-viewer quick-look" camera-controls tone-mapping="neutral" exposure="1" poster="poster.webp" shadow-intensity="1" camera-orbit="-224deg 69.92deg 5.938m" field-of-view="30deg" environment-image="neutral">
+<model-viewer src="u shape.glb" ar ar-modes="webxr scene-viewer quick-look" camera-controls tone-mapping="neutral" exposure="1" poster="poster.webp" shadow-intensity="1.2" camera-orbit="-224deg 69.92deg 5.938m" field-of-view="30deg" environment-image="neutral">
     <div class="progress-bar hide" slot="progress-bar">
         <div class="update-bar"></div>
     </div>
