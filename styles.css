@@ -18,6 +18,7 @@ model-viewer {
   height: 90%;
   background-color: #EBF2E7;
   environment-image: neutral;
+  exposure: 1;
 }
 
 
